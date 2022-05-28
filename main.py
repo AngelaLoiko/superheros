@@ -1,6 +1,6 @@
 import requests
 base_url = "https://superheroapi.com/api/"
-TOKEN = '2619421814940190'
+TOKEN = ''
 the_most_intelligent_hero = ''
 super_heroes = ['Hulk', 'Captain America', 'Thanos']
 
